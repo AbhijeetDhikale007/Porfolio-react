@@ -11,6 +11,17 @@ My personal portfolio website created using React js, UnoCSS, Three.js, React Th
 -   **Skills**: Listed my skills and expertise.
 -   **Contact**: Provided a contact form for users to get in touch with me.
 
+## Technologies Used
+
+-   [React](https://reactjs.dev)
+-   [UnoCSS](https://unocss.dev/)
+-   [Three.js](https://threejs.org)
+-   [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
+-   [Motion JS](https://motion.dev)
+-   [Gsap](https://gsap.com)
+-   [Lenis](https://lenis.darkroom.engineering)
+-   [SCSS](https://sass-lang.com)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
