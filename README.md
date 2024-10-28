@@ -2,7 +2,7 @@
 
 ![Portfolio Screenshot](/public/Screenshot.png)
 
-My personal portfolio website created using React js, UnoCSS, Three.js, React Three Fiber, and a collection of other technologies. This website showcases my skills, education, and allows users to contact me.
+My personal portfolio website created using React js, UnoCSS, Three.js, React Three Fiber, Matter js, lenis, and a collection of other technologies. This website showcases my skills, education, and allows users to contact me.
 
 ## Features
 
