@@ -17,7 +17,7 @@ My personal portfolio website created using React js, UnoCSS, Three.js, React Th
 -   [UnoCSS](https://unocss.dev/)
 -   [Three.js](https://threejs.org)
 -   [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
--   [Motion JS](https://motion.dev)
+-   [Matter JS](https://brm.io/matter-js)
 -   [Gsap](https://gsap.com)
 -   [Lenis](https://lenis.darkroom.engineering)
 -   [SCSS](https://sass-lang.com)
