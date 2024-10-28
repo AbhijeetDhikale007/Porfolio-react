@@ -1,0 +1,15 @@
+.Header {
+    // width: 85vw;
+    // height: fit-content;
+    margin-top: 2vh;
+
+    .Name {
+        letter-spacing: 3px;
+        text-shadow: #000 0.1em 0.1em 0.2em;
+    }
+}
+
+.King {
+    // width: 6vw;
+    filter: invert(1);
+}

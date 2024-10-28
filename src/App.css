@@ -1,0 +1,32 @@
+.Navbar {
+    z-index: 1;
+}
+
+/* .R34 {
+    display: flex;
+    max-height: 35vh;
+} */
+
+/* .R34 {
+    position: absolute;
+    top: 18vh;
+    right: 13vh;
+    min-width: 52vw;
+    min-height: 52vh;
+    /* border: 2px solid black; */
+/* } */
+
+/* 
+.Earth {
+    min-height: 29vh;
+    /* border: 2px solid #fff; */
+/* transform: scale(1.2); */
+/* } */
+
+
+/* .Earth, .R34 { */
+    /* width: 10vw; */
+    /* height: 20vh; */
+    /* transform: scale(2); */
+    /* border: 2px solid black; */
+ /* } */

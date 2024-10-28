@@ -1,0 +1,80 @@
+.Education {
+    // margin-top: 50vh;
+    // height: 103vh;
+    // width: 85vw;
+    backdrop-filter: blur(17px);
+    // background-color: rgb(16, 13, 37, .8);
+    // background-color: rgb(35, 35, 55, .7);
+    background-color: rgba(255, 255, 255, .03);
+    // border-left: 1.5px solid #38385c;
+    // border-right: 1.5px solid #38385c;
+    // border-bottom: 2.5px solid #38385c;
+    // box-shadow: 1px 1px 8px #38385c;
+    box-shadow: 1px 1px 8px #000000;
+    @apply w-100 h-fit sm:w-210 sm:h-125 lg:w-285 lg:h-160;
+    @apply ScrollAnimation static flex flex-col  sm:flex-row lg:flex-row flex-items-center flex-justify-center text-center border-rd-6 lg:border-rd-10;
+
+    .EduDetail, .EduTitle {
+        left: 7vw;
+    }
+
+    .EduDetail {
+        color: rgba(255, 255, 255, .521);
+        // top: 7vh;
+        font-weight: lighter;
+        @apply top-10 lg:top-10 xl:font-size-6 absolute font-size-5;
+    }
+
+    .EduTitle {
+        color:#fff;
+        // font-size: 4.2em;
+        top: 12vh;
+        @apply top-18 lg:top-17 xl:font-size-18 lg:font-size-20 absolute;
+    }
+}
+
+.EduDiv img {
+    height: 60px;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+
+    .METLogo {
+        height: 40px;
+    }
+}
+
+.EduDiv {
+    // width: 22vw;
+    // height: 60vh;
+    // margin: 0 1.8vw 0;
+    background-color: rgba(0, 0, 0, .5);
+    @apply mt-10 h-108 w-74 flex-center flex-justify-center border-rd-2xl;
+    @apply sm:mt-20 sm:h-80 sm:w-56 2xl:w-10;
+    @apply lg:mt-35 lg:h-92 lg:w-70;
+
+    p, h2 {
+        color: #fff;
+    }
+
+    h2 {
+        margin-top: 11vh;
+    }
+
+    .Field {
+        color: #F32F7A;
+    }
+
+    .Marks {
+        color: rgb(61, 223, 137);
+    }
+}
+
+.EduName {
+    color: #2F75A8;
+    font-weight: lighter;
+}
+
+.Marks {
+    color: #008000;
+    font-weight: lighter;
+}

@@ -1,0 +1,15 @@
+import Background from './Background/Background'
+import Header from './Header/Header'
+import Hero from './Hero/Hero'
+import Navbar from './Navbar/Navbar'
+import Introduction from './Introduction/Introduction'
+import Education from './Education/Education'
+import Skills from './Skills/Skills'
+import Projects from './Projects/Projects'
+import Contact from './Contact/Contact'
+import Footer from './Footer/Footer'
+import './Components.scss'
+import './Tooltip/Tooltip.scss'
+import './ScrollAnimation/ScrollAnimation.scss'
+
+export {Background, Header, Hero, Navbar, Introduction, Education, Skills, Projects, Contact, Footer}

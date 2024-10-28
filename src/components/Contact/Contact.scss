@@ -1,0 +1,118 @@
+.ContactDiv {
+    /* display: flex; */
+    // width: 30vw;
+    // height: 90vh;
+    // margin-top: 15vh;
+    backdrop-filter: blur(10px);
+    // background-color: rgb(16, 13, 37, .8);
+    background-color: rgb(16, 13, 37, .3);
+    border: .2px solid rgb(16, 13, 225, .3);
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .8);
+    @apply w-84 lg:w-100 lg:h-138 lg:mt-22;
+}
+
+.ContactDiv h1 {
+    // margin-bottom: 5vh;
+    @apply mb-8 lg:mb-8;
+}
+
+.LabelDiv {
+    // width: 28vw;
+    // margin-bottom: -4vh;
+    @apply w-80 lg:w-95 lg:mb--6;
+}
+
+.ContactDiv label {
+    // display: block;
+    // margin-left: 2px;
+    // cursor: text;
+    // font-size: 1.2em;
+    @apply block ml-2 lg:ml-1 text-4.7;
+}
+
+.ContactDiv .MessageLabel {
+    // margin-bottom: -3.6vh;
+    @apply mb--4.2;
+}
+
+.ContactDiv input {
+    /* position: relative; */
+    // margin: 5vh 0;
+    // height: 6vh;
+    // width: 29vw;
+    // font-size: 1.2em;
+    // padding: 6px 2px;
+    // outline: none;
+    // border: none;
+    // background-color: rgb(21, 16, 48);
+    background-color: rgb(21, 16, 48, .7);
+    border-radius: 8px;
+    color: #fff;
+    @apply mt-2 lg:mt-7.5 mb-7.5 w-83 lg:w-98 h-9.2 text-4.7 py-1.7 px-0.5;
+    @apply outline-none border-none;
+}
+
+.ContactDiv textarea {
+    // margin-top: 25px;
+    // margin-bottom: 25px;
+    // width: 29vw;
+    // backdrop-filter: blur(2px);
+    // background-color: rgb(21, 16, 48);
+    // font-size: 1.2em;
+    // font-weight: 600;
+    // outline: none;
+    // border: none;
+    // font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(21, 16, 48, .7);
+    border-radius: 8px;
+    color: #fff;
+    @apply my-6.3 w-84 lg:w-99 text-4.7;
+    @apply outline-none border-none;
+}
+
+.ContactDiv button {
+    // width: fit-content;
+    // background-color: transparent;
+    color: #0D333C;
+    background-color: rgb(21, 16, 48);
+    border: 1px solid rgb(36, 28, 82);
+    border-radius: 8px;
+    // padding: 6px 14px;
+    color: #fff;
+    // font-size: 1.2em;
+    transition: .5s;
+    @apply py-1.7 px-3.8 text-4.7;
+}
+
+.ContactDiv button:hover {
+    cursor: pointer;
+    /* text-shadow: 2px 0px 4px #ffffff; */
+    box-shadow: 0 0 2px 2px rgb(36, 28, 82);
+}
+
+.ContactDiv svg {
+    filter: invert(1);
+    // width: 20px;
+    @apply w-5;
+}
+
+.ContactDiv ::placeholder {
+    font-family: 'Segoe UI';
+    color: rgb(255, 255, 255, .5);
+    // font-size: .8em;
+    // padding: 3px 8px;
+    @apply py-1 px-2.5 text-3.8;
+}
+
+.ContactDiv input:focus {
+    border: .2px solid rgb(16, 13, 225, 0.7);
+}
+
+.form-group {
+
+    .success-message,
+    .failed-message {
+        color: #fff;
+    }
+}

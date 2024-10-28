@@ -1,0 +1,49 @@
+.Center {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.SectionWrapper {
+    min-height: 100vh;
+    // border: 2px solid #fff;
+    // margin-bottom: 25vh;
+    @apply static mb-5 lg:mb-38 flex justify-items-center flex-items-center;
+}
+
+.Right {
+    display: flex;
+    justify-content: end;
+}
+
+.Resume {
+    background-color: transparent;
+    border: 2px;
+    border-radius: 6px;
+    padding: 6px 14px;
+    color: #fff;
+    align-items: center;
+    align-self: center;
+    margin-left: 25px;
+    font-size: 2.6vh;
+    cursor: pointer;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.Resume:hover {
+    cursor: pointer;
+    color: #000;
+    background: #fff;
+    /* text-shadow: 2px 0px 4px #ffffff; */
+    box-shadow: 3px 3px #000;
+}
+
+.Resume:active {
+    background-color: #000;
+    color: #ff0000;
+}
+
+/* a:link, a:visited {
+    color: #4b0082;
+} */

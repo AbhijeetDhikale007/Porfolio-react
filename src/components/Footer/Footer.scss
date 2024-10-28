@@ -1,0 +1,33 @@
+.Footer {
+    // margin-top: 10vh;
+    // margin-bottom: 1.8vh;
+    // height: 10vh;
+    // align-items: center;
+    // justify-content: space-between;
+    // background: rgba(255, 255, 255, 0.03);
+    // backdrop-filter: blur(5px);
+    // border-radius: 20px;
+    // box-shadow: #000 0.1em 0.1em 0.2em;
+    // border: 2px solid red;
+    @apply mt-10 mb-0 sm:mt-25;
+    @apply lg:mt-18 lg:mb3 h-15 lg:h-14;
+    @apply flex flex-items-center justify-between;
+}
+
+.Footer1 {
+    // margin-left: -1vw;
+    // border: 2px solid green;
+    @apply ml-2 lg:ml--3;
+
+    .Name {
+        color: #fff;
+        letter-spacing: 3px;
+        cursor: default;
+    }
+}
+
+.Footer2 {
+    // margin-right: -1vw;
+    // border: 2px solid #fff;
+    @apply mr-2 lg:mr--3;
+}

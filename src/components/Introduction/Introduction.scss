@@ -1,0 +1,83 @@
+.Intro {
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+    // margin-top: 50vh;
+    // border: 2px solid #fff;
+    // border-radius: 20px;
+    // backdrop-filter: blur(17px);
+    // background-color: rgb(16, 13, 37, .8);
+    @apply static w-105 lg:w-auto flex-center flex-justify-center;
+
+    p {
+        color: rgb(169, 180, 230, .9);
+    }
+
+    .Info {
+        @apply top-20 sm:top-12 lg:top-14 text-justify relative;
+        @apply lg:w-140 font-size-5;
+    }
+
+    .ResumeButton {
+        margin: 3vh 0 0 0;
+        // width: min-content;
+    }
+}
+
+.IntroDetail,
+.IntroTitle,
+.Info {
+    // left: 3.5vw;
+    // top: 6vh;
+    @apply px-5 lg:px-8 top-14 lg:top-8;
+}
+
+.IntroDetail {
+    color: rgba(255, 255, 255, .7);
+}
+
+.IntroMail {
+    // margin-top: 12vh;
+    // margin-left: 4vw;
+    // border: 2px solid #fff;
+    @apply flex px-5 lg:px-8 mt-22 lg:mt-18;
+
+    div {
+        display: flex;
+        align-items: center
+    }
+
+    svg {
+        // display: inline-block;
+        // width: 2.2vw;
+        // position: relative;
+        @apply w10 md:w10 lg:w9;
+    }
+
+    a {
+        // margin-top: .6vh;
+        font-size: 1.2em;
+        text-decoration: none;
+    }
+
+    p {
+        // margin-top: -5vh;
+        // margin-left: 3vw;
+        // border: 2px solid #fff;
+        @apply ml-2 mt-2 h-10;
+    }
+}
+
+.IntroSVG {
+    // margin-top: 2vh;
+    // width: 15vw;
+    // display: flex;
+    // justify-content: space-between;
+    // position: relative;
+    // left: 3.5vw;
+    @apply px-3 lg:px-6 mt-3;
+
+    img {
+        @apply px-2 w-10 md:w-10 lg:w9;
+    }
+}

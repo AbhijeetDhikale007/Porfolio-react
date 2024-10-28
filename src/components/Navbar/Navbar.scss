@@ -1,0 +1,88 @@
+.Navbar {
+    bottom: 5vh;
+    background: rgba(255, 255, 255, 0.01);
+    box-shadow: #000 0.1em 0.1em 0.2em;
+    backdrop-filter: blur(5px);
+    justify-content: space-between;
+    align-items: center;
+    max-width: min-content;
+    max-height: min-content;
+    padding: 16px 10px;
+    border-radius: 25px;
+
+    img {
+        // width: 2.2vw;
+        padding: 0px 14px;
+    }
+
+    img:hover {
+        filter: brightness(2);
+        transition: all 5s;
+    }
+}
+
+// svg:hover {
+//     background: rgba(0, 0, 0, 0.3);
+// }
+
+// .menu ul {
+//     list-style-type: none;
+//     padding: 0;
+//     margin: 0;
+//     display: flex;
+//     gap: 20px;
+// }
+
+// .menu ul li {
+//     position: relative;
+// }
+
+// .menu ul li a {
+//     display: block;
+//     padding: 10px 20px;
+//     border: 2px solid #2e8b57;
+//     border-radius: 20px;
+//     color: #2e8b57;
+//     text-decoration: none;
+//     position: relative;
+//     z-index: 1;
+//     overflow: hidden;
+//     transition: color 0.3s;
+// }
+
+// .menu ul li a::before {
+//     content: "";
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     width: 300%;
+//     height: 300%;
+//     background-color: #2e8b57;
+//     transition: all 0.3s;
+//     border-radius: 50%;
+//     transform: translate(-50%, -50%) scale(0);
+//     z-index: -1;
+//     filter: blur(20px);
+// }
+
+// .menu ul li:hover a::before,
+// .menu ul li.active a::before {
+//     transform: translate(-50%, -50%) scale(1);
+// }
+
+// .menu ul li:hover a,
+// .menu ul li.active a {
+//     color: white;
+// }
+
+// .menu ul li.active a {
+//     color: white;
+// }
+
+// .menu ul li a:hover {
+//     color: white;
+// }
+
+// .menu ul li:hover a::before {
+//     transform: translate(-50%, -50%) scale(1);
+// }
