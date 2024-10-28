@@ -22,6 +22,22 @@ My personal portfolio website created using React js, UnoCSS, Three.js, React Th
 -   [Lenis](https://lenis.darkroom.engineering)
 -   [SCSS](https://sass-lang.com)
 
+## Getting started
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/AbhijeetDhikale007/Porfolio
+```
+
+2. To run the development server:
+
+```bash
+npm run dev
+```
+
+Open your web browser and visit http://localhost:3000 to see the website in action during development.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
