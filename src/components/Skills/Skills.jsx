@@ -74,37 +74,37 @@ const Skills = () => {
                             <a className='tooltip' data-title='IntelliJ IDEA' target='_blank' href="https://www.jetbrains.com/idea">
                                 <Idea /></a>
                             <a className='tooltip' data-title='Project IDX' target='_blank' href="https://idx.google.com/">
-                                <img src="public/assets/Skills/Project-IDX.png" alt="Project IDX" /></a>
+                                <img src="/assets/Skills/Project-IDX.png" alt="Project IDX" /></a>
                             <a className='tooltip' data-title='GitHub' target='_blank' href="https://github.com">
                                 <Github /></a>
                             <a className='tooltip' data-title='Inno Setup' target='_blank' href="https://jrsoftware.org/isinfo.php">
-                                <img src="public/assets/Skills/InnoSetup.svg" alt="Inno Setup" /></a>
+                                <img src="/assets/Skills/InnoSetup.svg" alt="Inno Setup" /></a>
                         </div>
                         <div className='Microsoft'>
                             <a className='tooltip' data-title='I can use Microsoft Word' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/word">
-                                <img src="public/assets/Skills/Word.svg" alt="Word" /></a>
+                                <img src="/assets/Skills/Word.svg" alt="Word" /></a>
                             <a className='tooltip' data-title='I can use Microsoft Excel' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/excel">
-                                <img src="public/assets/Skills/Excel.svg" alt="Excel" /></a>
+                                <img src="/assets/Skills/Excel.svg" alt="Excel" /></a>
                             <a className='tooltip' data-title='I can use Microsoft Powerpoint' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/powerpoint">
-                                <img src="public/assets/Skills/Powerpoint.svg" alt="Powerpoint" /></a>
+                                <img src="/assets/Skills/Powerpoint.svg" alt="Powerpoint" /></a>
                         </div>
                         <div className='Windows'>
                             <a className='tooltip' data-title='I have good knowledge of Microsoft Windows, I know the installation and troubleshooting of Windows' target='_blank' href="https://www.microsoft.com/en-in/windows">
-                                <img src="public/assets/Skills/Windows.svg" alt="Windows" /></a>
+                                <img src="/assets/Skills/Windows.svg" alt="Windows" /></a>
                             <a className='tooltip' data-title='I have good knowledge about Windows X Lite version, which is lighter, faster and safer than normal' target='_blank' href="https://windowsxlite.com">
-                                <img src="public/assets/Skills/WindowsXLite.png" alt="Windows X Lite" /></a>
+                                <img src="/assets/Skills/WindowsXLite.png" alt="Windows X Lite" /></a>
                             <a className='tooltip' data-title='I have good knowledge of Driver Booster, installation update and troubleshooting' target='_blank' href="https://www.iobit.com/en/driver-booster.php">
-                                <img src="public/assets/Skills/DriverBooster.png" alt="Driver Booster" /></a>
+                                <img src="/assets/Skills/DriverBooster.png" alt="Driver Booster" /></a>
                             <a className='tooltip' data-title='Finding game bugs and glitches' target='_blank' href="#">
-                                <img src="public/assets/Skills/Bug.svg" alt="Bugs and glitches" /></a>
+                                <img src="/assets/Skills/Bug.svg" alt="Bugs and glitches" /></a>
                         </div>
                         <div className='Security'>
                             <a className='tooltip' data-title='I have good knowledge of Antivirus, installation and troubleshooting etc' target='_blank' href="https://www.kaspersky.co.in/">
-                                <img src="public/assets/Skills/Kaspersky.ico" alt="Kaspersky" /></a>
+                                <img src="/assets/Skills/Kaspersky.ico" alt="Kaspersky" /></a>
                             <a className='tooltip' data-title='I have good knowledge of SimpleWall. A firewall that can prevent software/services from using network' target='_blank' href="https://www.simplewall.org">
-                                <img src="public/assets/Skills/SimpleWall.png" alt="SimpleWall" /></a>
+                                <img src="/assets/Skills/SimpleWall.png" alt="SimpleWall" /></a>
                             <a className='tooltip' data-title='I have good knowledge of Net Limiter. More features than SimpleWall' target='_blank' href="https://www.netlimiter.com">
-                                <img src="public/assets/Skills/NetLimiter.png" alt="Net Limiter" /></a>
+                                <img src="/assets/Skills/NetLimiter.png" alt="Net Limiter" /></a>
                         </div>
                     </div>
                 </div>
