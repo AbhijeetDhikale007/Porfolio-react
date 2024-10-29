@@ -8,7 +8,7 @@ export default function Background() {
   const canvas2Ref = useRef(null);
   const frames = {
     currentIndex: 0,
-    maxIndex: 6,
+    maxIndex: 5,
   };
   const images = [];
   let imagesLoaded = 0;
@@ -69,7 +69,7 @@ export default function Background() {
     const startAnimation = () => {
       const tl = gsap.timeline({
         scrollTrigger: {
-          trigger: 'Background',
+          // trigger: 'Background',
           start: 'top top',
           scrub: 2,
           end: 'bottom bottom'
@@ -102,5 +102,5 @@ export default function Background() {
     };
   }, []);
 
-  return <canvas className='fixed z--1 width-100 top-0 left-0' ref={canvas2Ref} id="Background" />
+  return <canvas className='fixed z--1 width-100 top-0 left-0' ref={canvas2Ref} />
 }
