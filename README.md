@@ -2,6 +2,9 @@
 
 ![Portfolio Screenshot](/public/Screenshot.png)
 
+## Deployments
+[Vercel](https://abhijeetdhikale007.vercel.app)
+
 My personal portfolio website created using React js, UnoCSS, Three.js, React Three Fiber, Matter js, lenis, and a collection of other technologies. This website showcases my skills, education, and allows users to contact me.
 
 ## Features
@@ -30,7 +33,13 @@ My personal portfolio website created using React js, UnoCSS, Three.js, React Th
 git clone https://github.com/AbhijeetDhikale007/Porfolio
 ```
 
-2. To run the development server:
+2. NPM Install
+
+```bash
+npm i
+```
+
+3. To run the development server:
 
 ```bash
 npm run dev
