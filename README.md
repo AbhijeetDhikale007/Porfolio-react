@@ -3,7 +3,7 @@
 ![Portfolio Screenshot](/public/Screenshot.png)
 
 ## Deployments
-[Vercel](https://abhijeetdhikale007.vercel.app)
+[abhijeetdhikale007.vercel.app](https://abhijeetdhikale007.vercel.app)
 
 My personal portfolio website created using React js, UnoCSS, Three.js, React Three Fiber, Matter js, lenis, and a collection of other technologies. This website showcases my skills, education, and allows users to contact me.
 
