@@ -16,14 +16,14 @@ My personal portfolio website created using React js, UnoCSS, Three.js, React Th
 
 ## Technologies Used
 
--   [React](https://reactjs.dev)
--   [UnoCSS](https://unocss.dev/)
--   [Three.js](https://threejs.org)
+-   [React](https://reactjs.dev) - The main library
+-   [UnoCSS](https://unocss.dev/) - Atomic CSS Engine
+-   [Three.js](https://threejs.org) - For 3D Objects
 -   [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
--   [Matter JS](https://brm.io/matter-js)
--   [Gsap](https://gsap.com)
--   [Lenis](https://lenis.darkroom.engineering)
--   [SCSS](https://sass-lang.com)
+-   [Matter JS](https://brm.io/matter-js) - Background Particles
+-   [Gsap](https://gsap.com) - Background images changing effect on scrolling
+-   [Lenis](https://lenis.darkroom.engineering) - Smooth Scrolling
+-   [SCSS](https://sass-lang.com) - CSS
 
 ## Getting started
 
