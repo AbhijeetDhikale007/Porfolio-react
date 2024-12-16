@@ -2,6 +2,8 @@
 
 ![Portfolio Screenshot](/public/Screenshot.png)
 
+## Published from Google's Project IDX
+
 ## Deployments
 [abhijeetdhikale007.vercel.app](https://abhijeetdhikale007.vercel.app)
 
