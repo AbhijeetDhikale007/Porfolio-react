@@ -32,7 +32,7 @@ Vercel - [abhijeetdhikale007-react.vercel.app](https://abhijeetdhikale007-react.
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/AbhijeetDhikale007/Porfolio
+git clone https://github.com/AbhijeetDhikale007/Porfolio-react
 ```
 
 2. NPM Install
