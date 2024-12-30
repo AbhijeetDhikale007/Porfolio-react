@@ -7,7 +7,7 @@ My personal portfolio website created using React js, UnoCSS, Three.js, React Th
 ## Published from Google's Project IDX
 
 ## Deployments
-Vercel - [abhijeetdhikale007.vercel.app](https://abhijeetdhikale007.vercel.app)
+Vercel - [abhijeetdhikale007.vercel.app](https://abhijeetdhikale007-react.vercel.app)
 
 ## Features
 
