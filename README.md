@@ -4,7 +4,10 @@
 
 My personal portfolio website created using React js, UnoCSS, Three.js, React Three Fiber, Matter js, lenis, and a collection of other technologies. This website showcases my skills, education, and allows users to contact me.
 
-## Published from Google's Project IDX
+## Published from IDX
+
+- This repository is developed in Google's Project IDX and later on published on GitHub.
+- [Project IDX](https://idx.dev) 
 
 ## Deployments
 Vercel - [abhijeetdhikale007-react.vercel.app](https://abhijeetdhikale007-react.vercel.app)
