@@ -10,7 +10,9 @@ const Projects = () => {
                 <div className="Projects">
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <img src="public/Projects/P1.png" alt="Project 1" />
+                            <a target='_blank' href="https://abhijeetdhikale007-react.vercel.app">
+                                <img src="public/Projects/P1.png" alt="Project 1" />
+                            </a>
                         </div>
                         <h2 className='PH2'>React Portfolio</h2>
                         <p className='PText'>Developed a personal portfolio website using React showcasing skills in web development. It includes header, hero, navbar, profile, education, skills, contact, footer and some 3D interactive objects by using react- three-fiber.</p>
@@ -22,7 +24,9 @@ const Projects = () => {
                     </div>
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <img src="public/Projects/P2.png" alt="Project 2" />
+                            <a target='_blank' href="https://abhijeetdhikale007.vercel.app">
+                                <img src="public/Projects/P2.png" alt="Project 2" />
+                            </a>
                         </div>
                         <h2 className='PH2'>Svelte Portfolio</h2>
                         <p className='PText'>Developed a more advanced personal portfolio website using Svelte 5, Unocss showcasing skills in web development. It includes header, home, skills, projects, education, resume.</p>
@@ -34,6 +38,7 @@ const Projects = () => {
                     </div>
                     <div className='PDiv'>
                         <div className='PImgDiv'>
+                            <a target='_blank' href=""></a>
                             <img src="public/Projects/P3.png" alt="Project 3" />
                         </div>
                         <h2 className='PH2'>Ekatta Website</h2>
