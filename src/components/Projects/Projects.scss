@@ -3,21 +3,19 @@
 // }
 
 .Projects {
-    @apply flex text-justify flex-col sm:flex-row lg:flex-row;
+    @apply flex text-justify flex-col gap-4 md:gap-10 lg:gap-12 sm:flex-row lg:flex-row;
     // border: 2px solid #fff;
 
     .PDiv {
         // width: 20vw;
         // height: 70vh;
-        margin: 3vh 2vw;
-        border-radius: 20px;
         border-left: 1.5px solid #38385c;
         border-right: 1.5px solid #38385c;
         border-bottom: 2.5px solid #38385c;
         box-shadow: 1px 1px 8px #38385c;
         background-color: rgb(35, 35, 55, .7);
         padding: 0 1vw;
-        @apply w85 h150 sm:w55 sm:h113 lg:h105 lg:w65;
+        @apply w85 h150 sm:w55 sm:h113 lg:h105 lg:w65 rounded-3;
 
         .PH2 {
             color: #fff;
@@ -32,10 +30,6 @@
 
         .PText, .P1, .P2, .P3, .P4 {
             @apply font-size-5.5 lg:font-size-4 sm:font-size-4.4;
-        }
-
-        .P1, .P2, .P3, .P4 {
-            display: inline;
         }
 
         .P1 {
