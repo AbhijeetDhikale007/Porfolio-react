@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Roboto Condensed';
+    font-family: 'Roboto-Condensed';
     src: url(assets/Roboto-Condensed.ttf);
 }
 
@@ -8,6 +8,10 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto Condensed';
+}
+
+.Roboto-Condensed {
+    font-family: 'Roboto-Condensed';
 }
 
 body {
