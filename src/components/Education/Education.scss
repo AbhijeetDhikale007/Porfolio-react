@@ -11,8 +11,8 @@
     // border-bottom: 2.5px solid #38385c;
     // box-shadow: 1px 1px 8px #38385c;
     box-shadow: 1px 1px 8px #000000;
-    @apply w-100 h-fit sm:w-210 sm:h-125 lg:w-285 lg:h-160;
-    @apply ScrollAnimation static flex flex-col  sm:flex-row lg:flex-row flex-items-center flex-justify-center text-center border-rd-6 lg:border-rd-10;
+    @apply w-100 h-fit sm:w-210 sm:h-fit lg:w-285 lg:h-fit;
+    @apply ScrollAnimation static flex flex-col sm:flex-row lg:flex-row flex-items-center flex-justify-center text-center border-rd-6 lg:border-rd-10;
 
     .EduDetail, .EduTitle {
         left: 7vw;
@@ -48,9 +48,9 @@
     // height: 60vh;
     // margin: 0 1.8vw 0;
     background-color: rgba(0, 0, 0, .5);
-    @apply mt-10 h-108 w-74 flex-center flex-justify-center border-rd-2xl;
-    @apply sm:mt-20 sm:h-80 sm:w-56 2xl:w-10;
-    @apply lg:mt-35 lg:h-92 lg:w-70;
+    @apply h-fit px-2 pb-5 w-74 flex-center flex-justify-center border-rd-2xl;
+    @apply sm:w-56 2xl:w-10;
+    @apply lg:w-70;
 
     p, h2 {
         color: #fff;
