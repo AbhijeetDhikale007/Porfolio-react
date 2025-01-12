@@ -95,8 +95,8 @@ const Skills = () => {
                                 <img src="/assets/Skills/WindowsXLite.png" alt="Windows X Lite" /></a>
                             <a className='tooltip' data-title='I have good knowledge of Driver Booster, installation update and troubleshooting' target='_blank' href="https://www.iobit.com/en/driver-booster.php">
                                 <img src="/assets/Skills/DriverBooster.png" alt="Driver Booster" /></a>
-                            <a className='tooltip' data-title='Finding game bugs and glitches' target='_blank' href="#">
-                                <img src="/assets/Skills/Bug.svg" alt="Bugs and glitches" /></a>
+                            {/* <a className='tooltip' data-title='Finding game bugs and glitches' target='_blank' href="#">
+                                <img src="/assets/Skills/Bug.svg" alt="Bugs and glitches" /></a> */}
                         </div>
                         <div className='Security'>
                             <a className='tooltip' data-title='I have good knowledge of Antivirus, installation and troubleshooting etc' target='_blank' href="https://www.kaspersky.co.in/">
