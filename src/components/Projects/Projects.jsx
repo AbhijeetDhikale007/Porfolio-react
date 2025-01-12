@@ -10,36 +10,38 @@ const Projects = () => {
                 <div className="Projects">
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <img src="public/assets/Background-Image.png" alt="Project 1" />
+                            <img src="public/Projects/P1.png" alt="Project 1" />
                         </div>
-                        <h2 className='PH2'>Coming Soon</h2>
-                        <p className='PText'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi dicta minima ducimus molestiae dolore temporibus illum ipsa consequatur ad dolor accusamus soluta, amet architecto earum laudantium dolorum, rem quam iste.</p>
-                        <p className='P1'>#javascript  </p>
-                        <p className='P2'>#reactjs  </p>
-                        <p className='P3'>#python  </p>
-                        <p className='P4'>#pascal</p>
+                        <h2 className='PH2'>React Portfolio</h2>
+                        <p className='PText'>Developed a personal portfolio website using React showcasing skills in web development. It includes header, hero, navbar, profile, education, skills, contact, footer and some 3D interactive objects by using react- three-fiber.</p>
+                        <div class='flex flex-wrap mt-5 gap-2'>
+                            <p className='P1'>#React</p>
+                            <p className='P2'>#Unocss</p>
+                            <p className='P3'>#Threejs</p>
+                        </div>
                     </div>
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <img src="public/assets/Background-Image.png" alt="Project 2" />
+                            <img src="public/Projects/P2.png" alt="Project 2" />
                         </div>
-                        <h2 className='PH2'>Coming Soon</h2>
-                        <p className='PText'></p>
-                        <p className='P1'></p>
-                        <p className='P2'></p>
-                        <p className='P3'></p>
-                        <p className='P4'></p>
+                        <h2 className='PH2'>Svelte Portfolio</h2>
+                        <p className='PText'>Developed a more advanced personal portfolio website using Svelte 5, Unocss showcasing skills in web development. It includes header, home, skills, projects, education, resume.</p>
+                        <div class='flex flex-wrap mt-5 gap-2'>
+                            <p className='P1'>#Svelte</p>
+                            <p className='P2'>#Unocss</p>
+                            <p className='P3'>#Tiltjs</p>
+                        </div>
                     </div>
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <img src="public/assets/Background-Image.png" alt="Project 3" />
+                            <img src="public/Projects/P3.png" alt="Project 3" />
                         </div>
-                        <h2 className='PH2'>Coming Soon</h2>
-                        <p className='PText'></p>
-                        <p className='P1'></p>
-                        <p className='P2'></p>
-                        <p className='P3'></p>
-                        <p className='P4'></p>
+                        <h2 className='PH2'>Ekatta Website</h2>
+                        <p className='PText'>Developed a website for an online cyber cafe (EKatta) using Sveltekit 5, Unocss showcasing all the services provided. It includes header, home, services, contact us, about us and footer.</p>
+                        <div class='flex flex-wrap mt-5 gap-2'>
+                            <p className='P1'>#Sveltekit</p>
+                            <p className='P2'>#Unocss</p>
+                        </div>
                     </div>
                 </div>
             </div>

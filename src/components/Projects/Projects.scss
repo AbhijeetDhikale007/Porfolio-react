@@ -71,9 +71,8 @@
             img {
                 // height: 27vh;
                 // width: 17vw;
-                border-radius: 20px;
                 // border: 2px solid #fff;
-                @apply w-80 h-52 sm:w52 sm:h40 lg:h40 lg:w65;
+                @apply w-80 h-52 sm:w52 sm:h40 lg:h40 lg:w65 rounded-3;
             }
         }
     }

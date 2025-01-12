@@ -44,9 +44,9 @@ function App() {
       <div className='SectionWrapper'>
         <Skills />
       </div>
-      {/* <div className='SectionWrapper'>
+      <div className='SectionWrapper'>
         <Projects />
-      </div> */}
+      </div>
       <div className='SectionWrapper block lg:flex justify-between mb-0'>
         <EarthModel />
         <Contact />
