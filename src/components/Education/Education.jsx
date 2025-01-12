@@ -5,7 +5,7 @@ const Education = () => {
         <div className="Education flex-wrap py-10" id='Education'>
             <h2 className="EduDetail">EDUCATION DETAILS....</h2>
             <h1 className="EduTitle">Education.</h1>
-            <div className='flex mt-25 flex-wrap justify-center items-center gap-4 md:gap-8 lg:gap-10'>
+            <div className='flex mt-30 flex-wrap justify-center items-center gap-4 md:gap-8 lg:gap-10'>
                 <div className='EduDiv'>
                     <img src="/assets/Education/New-English-School.png" alt="School Logo" />
                     <h3 className='EduName'>New English School,<br />Adgaon, Nashik</h3>
