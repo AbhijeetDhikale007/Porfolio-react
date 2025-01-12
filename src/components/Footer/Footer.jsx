@@ -6,7 +6,7 @@ const Footer = () => {
         <>
             <footer className='Footer'>
                 <div className="Footer1">
-                    <h3 className="Name font-size-3 sm:font-size-4 lg:font-size-5">© Λʙʜιנєєτ  Ðʜικαℓє | 2024</h3>
+                    <pre className="Name Roboto-Condensed font-size-4 lg:font-size-6 inline-block vertical-middle text-white cursor-default">© Λ ʙ ʜ ι נ є є τ   Ð ʜ ι κ α ℓ є  |  2024</pre>
                     {/* <Link to="Header" spy={true} smooth={true} duration={500}><img src="public/assets/PNG/Home.png" alt="Home" /></Link>
                     <Link to="About" spy={true} smooth={true} duration={500}><img src="public/assets/PNG/About.png" alt="About" /></Link>
                     <Link to="Education" spy={true} smooth={true} duration={500}><img src="public/assets/PNG/Education.png" alt="Education" /></Link>
