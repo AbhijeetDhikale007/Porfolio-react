@@ -11,7 +11,7 @@ const Projects = () => {
                     <div className='PDiv'>
                         <div className='PImgDiv'>
                             <a target='_blank' href="https://abhijeetdhikale007-react.vercel.app">
-                                <img src="public/Projects/P1.png" alt="Project 1" />
+                                <img src="Projects/P1.png" alt="Project 1" />
                             </a>
                         </div>
                         <h2 className='PH2'>React Portfolio</h2>
@@ -25,7 +25,7 @@ const Projects = () => {
                     <div className='PDiv'>
                         <div className='PImgDiv'>
                             <a target='_blank' href="https://abhijeetdhikale007.vercel.app">
-                                <img src="public/Projects/P2.png" alt="Project 2" />
+                                <img src="Projects/P2.png" alt="Project 2" />
                             </a>
                         </div>
                         <h2 className='PH2'>Svelte Portfolio</h2>
@@ -39,7 +39,7 @@ const Projects = () => {
                     <div className='PDiv'>
                         <div className='PImgDiv'>
                             <a target='_blank' href="https://e-katta.vercel.app"></a>
-                            <img src="public/Projects/P3.png" alt="Project 3" />
+                            <img src="Projects/P3.png" alt="Project 3" />
                         </div>
                         <h2 className='PH2'>Ekatta Website</h2>
                         <p className='PText'>Developed a website for an online cyber cafe (EKatta) using Sveltekit 5, Unocss showcasing all the services provided. It includes header, home, services, contact us, about us and footer.</p>
