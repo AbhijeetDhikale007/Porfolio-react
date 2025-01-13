@@ -38,8 +38,9 @@ const Projects = () => {
                     </div>
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <a target='_blank' href="https://e-katta.vercel.app"></a>
-                            <img src="Projects/P3.png" alt="Project 3" />
+                            <a target='_blank' href="https://e-katta.vercel.app">
+                                <img src="Projects/P3.png" alt="Project 3" />
+                            </a>
                         </div>
                         <h2 className='PH2'>Ekatta Website</h2>
                         <p className='PText'>Developed a website for an online cyber cafe (EKatta) using Sveltekit 5, Unocss showcasing all the services provided. It includes header, home, services, contact us, about us and footer.</p>
