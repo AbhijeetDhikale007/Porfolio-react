@@ -38,7 +38,7 @@ const Projects = () => {
                     </div>
                     <div className='PDiv'>
                         <div className='PImgDiv'>
-                            <a target='_blank' href=""></a>
+                            <a target='_blank' href="https://e-katta.vercel.app"></a>
                             <img src="public/Projects/P3.png" alt="Project 3" />
                         </div>
                         <h2 className='PH2'>Ekatta Website</h2>
