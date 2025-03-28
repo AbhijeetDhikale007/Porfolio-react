@@ -1,5 +1,5 @@
 import {
-    HTMLIcon, CSS, PHP, TypeScript,
+    HTMLIcon, CSS, PHP, TypeScript, InnoSetup,
     Sass, VSCode, Windows, Eclipse,
     Threejs, Tailwind, Postman, Mysql,
     Bootstrap, Dart, Flutter, Github, Idea,
@@ -82,7 +82,7 @@ const Skills = () => {
                             <a className='tooltip' data-title='GitHub' target='_blank' href="https://github.com">
                                 <Github /></a>
                             <a className='tooltip' data-title='Inno Setup' target='_blank' href="https://jrsoftware.org/isinfo.php">
-                                <img src="/assets/Skills/InnoSetup.svg" alt="Inno Setup" /></a>
+                                <InnoSetup /></a>
                         </div>
                         <div className='Microsoft'>
                             <a className='tooltip' data-title='I can use Microsoft Word' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/word">
