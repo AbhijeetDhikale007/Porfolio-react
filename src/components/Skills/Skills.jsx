@@ -1,5 +1,5 @@
 import {
-    HTMLIcon, CSS,
+    HTMLIcon, CSS, PHP, TypeScript,
     Sass, VSCode, Windows, Eclipse,
     Threejs, Tailwind, Postman, Mysql,
     Bootstrap, Dart, Flutter, Github, Idea,
@@ -33,8 +33,12 @@ const Skills = () => {
                         <div className='Languages'>
                             <a className='tooltip' data-title='C' target='_blank' href="https://en.cppreference.com/w/c">
                                 <CLang /></a>
-                            <a className='tooltip' data-title='Java Script' target='_blank' href="https://262.ecma-international.org">
+                            <a className='tooltip' data-title='JavaScript' target='_blank' href="https://262.ecma-international.org">
                                 <Javascript /></a>
+                            <a className='tooltip' data-title='TypeScript' target='_blank' href="https://www.typescriptlang.org">
+                                <TypeScript /></a>
+                            <a className='tooltip' data-title='PHP' target='_blank' href="https://www.php.net">
+                                <PHP /></a>
                             <a className='tooltip' data-title='HTML' target='_blank' href="https://html.spec.whatwg.org/multipage">
                                 <HTMLIcon /></a>
                             <a className='tooltip' data-title='CSS' target='_blank' href="https://www.w3.org/Style/CSS/Overview.en.html">
