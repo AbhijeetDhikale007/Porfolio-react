@@ -6,7 +6,7 @@
             <stop stopColor="#473788" offset="30.33%">
 
 </stop>stopColor
-            <stop stop-color="#2C2255" offset="87.2%">
+            <stop stopColor="#2C2255" offset="87.2%">
 
 </stop>
         </linearGrstopColor
@@ -14,15 +14,15 @@
             <stop stopColor="#473788" offset="30.33%">
 
 </stop>
-            <stop stop-color="#2C2255" offset="87.2%">
+            <stop stopColor="#2C2255" offset="87.2%">
 stopColor
 </stop>
         </linearGrstopColor
         <linearGradient x1="49.9988435%" y1="215.169856%" x2="49.9988435%" y2="-166.715419%" id="linearGradient-3">
-            <stop stop-color="#473788" offset="30.33%">
+            <stop stopColor="#473788" offset="30.33%">
 
 </stop>
-            <stop stop-color="#2C2255" offset="86.31%">
+            <stop stopColor="#2C2255" offset="86.31%">
 
 </stop>
         </linearGradient>
