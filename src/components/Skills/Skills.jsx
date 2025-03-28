@@ -1,9 +1,9 @@
 import {
     HTMLIcon, CSS, PHP, TypeScript, InnoSetup,
-    Sass, VSCode, Windows, Eclipse,
+    Sass, VSCode, Windows, Eclipse, Powerpoint,
     Threejs, Tailwind, Postman, Mysql,
     Bootstrap, Dart, Flutter, Github, Idea,
-    Angular, React, CLang, Javascript, UnocssSVG
+    Angular, React, CLang, Javascript, UnocssSVG, Word, Excel
 } from './Icons'
 import './Skills.scss'
 
@@ -86,15 +86,15 @@ const Skills = () => {
                         </div>
                         <div className='Microsoft'>
                             <a className='tooltip' data-title='I can use Microsoft Word' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/word">
-                                <img src="/assets/Skills/Word.svg" alt="Word" /></a>
+                                <Word /></a>
                             <a className='tooltip' data-title='I can use Microsoft Excel' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/excel">
-                                <img src="/assets/Skills/Excel.svg" alt="Excel" /></a>
+                                <Excel /></a>
                             <a className='tooltip' data-title='I can use Microsoft Powerpoint' target='_blank' href="https://www.microsoft.com/en-in/microsoft-365/powerpoint">
-                                <img src="/assets/Skills/Powerpoint.svg" alt="Powerpoint" /></a>
+                                <Powerpoint /></a>
                         </div>
                         <div className='Windows'>
                             <a className='tooltip' data-title='I have good knowledge of Microsoft Windows, I know the installation and troubleshooting of Windows' target='_blank' href="https://www.microsoft.com/en-in/windows">
-                                <img src="/assets/Skills/Windows.svg" alt="Windows" /></a>
+                                <Windows /></a>
                             <a className='tooltip' data-title='I have good knowledge about Windows X Lite version, which is lighter, faster and safer than normal' target='_blank' href="https://windowsxlite.com">
                                 <img src="/assets/Skills/WindowsXLite.png" alt="Windows X Lite" /></a>
                             <a className='tooltip' data-title='I have good knowledge of Driver Booster, installation update and troubleshooting' target='_blank' href="https://www.iobit.com/en/driver-booster.php">
