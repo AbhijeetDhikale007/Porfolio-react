@@ -16,7 +16,7 @@ const Introduction = () => {
                 </div>
             </div>
             <div className="IntroSVG relative flex">
-                <a className='tooltip invert' data-title='Instagram' target='_blank' href="https://www.instagram.com/abhijeetdhikale007"><img src="/assets/Skills/Instagram2.svg" alt="Instagram" /></a>
+                <a className='tooltip' data-title='Instagram' target='_blank' href="https://www.instagram.com/abhijeetdhikale007"><img src="/assets/Skills/Instagram2.svg" alt="Instagram" /></a>
                 <a className='tooltip' data-title='LinkedIn' target='_blank' href="https://www.linkedin.com/in/abhijeet-dhikale"><img src="/assets/Skills/LinkedIn2.svg" alt="LinkedIn" /></a>
                 <a className='tooltip' data-title='Twitter' target='_blank' href="https://x.com/abhijeetdhikale007"><img src="/assets/Skills/Twitter2.svg" alt="Twitter" /></a>
                 <a className='tooltip' data-title='GitHub' target='_blank' href="https://github.com/AbhijeetDhikale007"><img src="/assets/Skills/Github2.svg" alt="GitHub" /></a>
