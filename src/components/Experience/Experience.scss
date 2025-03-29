@@ -1,7 +1,7 @@
 .Experience {
-    background: rgb(50, 50, 50, .4);
+    background: rgb(40, 40, 40, .5);
     backdrop-filter: blur(4px);
-    border-radius: 12px;
+    border-radius: 15px;
     @apply flex flex-col text-white justify-center items-center;
     @apply min-h-100vh w-100% gap-8 py-2;
 }
