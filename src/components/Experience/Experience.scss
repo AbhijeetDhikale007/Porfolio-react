@@ -3,12 +3,12 @@
     backdrop-filter: blur(4px);
     border-radius: 12px;
     @apply flex flex-col text-white justify-center items-center;
-    @apply min-h-100vh w-100% gap-6;
+    @apply min-h-100vh w-100% gap-8 py-2;
 }
 
 .ExpCard {
-    background: rgb(0, 0, 0, .2);
-    border: .5px solid rgb(0, 0, 0, .5);
+    background: rgb(0, 0, 0, .4);
+    border-bottom: .5px solid rgb(0, 0, 100, .4);
     border-radius: 12px;
     @apply flex flex-col justify-center;
     @apply h-100 w-80 p-4 gap-2;
