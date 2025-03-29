@@ -8,7 +8,7 @@ export default function Background() {
   const canvas2Ref = useRef(null);
   const frames = {
     currentIndex: 0,
-    maxIndex: 6,
+    maxIndex: 7,
   };
   const images = [];
   let imagesLoaded = 0;
