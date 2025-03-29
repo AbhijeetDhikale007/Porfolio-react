@@ -3,6 +3,7 @@ import Header from './Header/Header'
 import Hero from './Hero/Hero'
 import Navbar from './Navbar/Navbar'
 import Introduction from './Introduction/Introduction'
+import Experience from './Experience/Experience'
 import Education from './Education/Education'
 import Skills from './Skills/Skills'
 import Projects from './Projects/Projects'
@@ -12,4 +13,4 @@ import './Components.scss'
 import './Tooltip/Tooltip.scss'
 import './ScrollAnimation/ScrollAnimation.scss'
 
-export {Background, Header, Hero, Navbar, Introduction, Education, Skills, Projects, Contact, Footer}
+export {Background, Header, Hero, Navbar, Introduction, Experience, Education, Skills, Projects, Contact, Footer}
