@@ -7,7 +7,7 @@ import BMW from './Models/BMW/BMW'
 // import { Stats } from '@react-three/drei'
 // import { Leva } from 'leva'
 // import Lambo from './Models/Lambo/Lambo.jsx'
-import { Background, Header, Hero, Navbar, Introduction, Education, Skills, Projects, Contact, Footer } from './components/Components'
+import { Background, Header, Hero, Navbar, Introduction, Experience, Education, Skills, Projects, Contact, Footer } from './components/Components'
 import './App.css'
 import 'virtual:uno.css'
 
@@ -37,6 +37,9 @@ function App() {
       <div className='SectionWrapper block lg:flex'>
         <Introduction />
         <BMW />
+      </div>
+      <div className='SectionWrapper'>
+        <Experience />
       </div>
       <div className='SectionWrapper'>
         <Education />
